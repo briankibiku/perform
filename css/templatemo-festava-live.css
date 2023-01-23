@@ -468,6 +468,10 @@ strong {
 .navbar-toggler .navbar-toggler-icon::after {
   top: 8px;
 }
+.logo-image{
+  width: 100px;
+  height: auto;
+}
 
 
 /*---------------------------------------
