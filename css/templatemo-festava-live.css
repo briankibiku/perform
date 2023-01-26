@@ -714,7 +714,17 @@ strong {
 .schedule-table .freestyle-background-image {
   background-image: url('../images/artists/artist6.jpg');
 }
-
+.space-btwn{
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+}
+.icon-img{
+  height: 55px;
+  width: 60px;
+}
 
 .table-background-image-wrap {
   background-repeat: no-repeat;
@@ -739,7 +749,7 @@ strong {
   border: 5px dotted var(--dark-color);
   border-radius: var(--border-radius-medium);
   position: relative;
-  padding: 50px;
+  padding: 20px;
 }
 
 .pricing-thumb h3 small {
