@@ -701,7 +701,7 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-  background-image: url('../images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+  background-image: url('../images/artists/artist5.jpg');
 }
 
 .schedule-table .rock-background-image {
@@ -709,8 +709,12 @@ strong {
 }
 
 .schedule-table .country-background-image {
-  background-image: url('../images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+  background-image: url('../images/artists/artist3.jpg');
 }
+.schedule-table .freestyle-background-image {
+  background-image: url('../images/artists/artist6.jpg');
+}
+
 
 .table-background-image-wrap {
   background-repeat: no-repeat;
