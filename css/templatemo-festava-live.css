@@ -469,8 +469,11 @@ strong {
   top: 8px;
 }
 .logo-image{
-  width: 100px;
-  height: auto;
+  width: 80px;
+  height: 80px;
+}
+.landing-image{
+  z-index: -1;
 }
 
 
