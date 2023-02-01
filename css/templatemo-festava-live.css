@@ -293,10 +293,10 @@ strong {
   CUSTOM BUTTON               
 -----------------------------------------*/
 .custom-btn {
-  background: var(--custom-btn-bg-color);
+  background: #ffffff;
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
-  color: var(--white-color);
+  color: #000000;
   font-size: var(--btn-font-size);
   font-weight: var(--font-weight-bold);
   line-height: normal;
