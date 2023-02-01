@@ -826,7 +826,7 @@ strong {
 }
 
 .custom-form button[type="submit"] {
-  background: var(--custom-btn-bg-color);
+  background: #000;
   border: none;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
@@ -847,14 +847,14 @@ strong {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background-color: var(--dark-color);
+  background-color: #000;
   position: relative;
   overflow: hidden;
   padding-bottom: 30px;
 }
 
 .site-footer-top {
-  background-color: var(--secondary-color);
+  background-color: #000;
   background-image: url('../images/nainoa-shizuru-NcdG9mK3PBY-unsplash.jpg');
   background-repeat: no-repeat;
   margin-bottom: 70px;
@@ -906,9 +906,9 @@ strong {
 }
 
 .social-icon-link {
-  background: var(--secondary-color);
+  background: #fff;
   border-radius: var(--border-radius-large);
-  color: var(--white-color);
+  color: #000;
   font-size: var(--copyright-font-size);
   display: block;
   margin-right: 10px;
