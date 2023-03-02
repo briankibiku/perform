@@ -486,6 +486,10 @@ strong {
   overflow: hidden;
   padding-top: 100px;
   height: calc(100vh - 51px);
+  background-image: url('../images/crowd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .hero-section small {
